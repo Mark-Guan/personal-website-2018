@@ -20,7 +20,9 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Mark Guan</h1>
-						<p>Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this</p>
+						<p>Software Engineer &nbsp;&bull;&nbsp; Data Scientist</p>
+						<h2>“People Who Are Crazy Enough To Think They Can Change
+							The World, Are The Ones Who Do.” – Rob Siltanen</h2>
 						<nav>
 							<ul>
 								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -34,7 +36,6 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<span class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
 					</footer>
 
 			</div>
